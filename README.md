@@ -9,9 +9,10 @@
 3. [Objectives](#objectives)
 4. [Methodology](#methodology)
 5. [Key Insights \& Analysis](#key-insights--analysis)
-6. [Key Findings](#key-findings)
-7. [Implications](#implications)
-8. [Conclusion](#conclusion)
+6. [Dashboard Image](#dashboard)
+7. [Key Findings](#key-findings)
+8. [Implications](#implications)
+9. [Conclusion](#conclusion)
 
 ## Introduction
 Ola, a leader in the ride-hailing industry, generates extensive data on ride performance, driver behaviour, and customer experience. This dashboard analyzes booking trends, cancellations, payments, ratings, and vehicle performance to uncover insights that improve operational efficiency, reduce cancellations, and enhance customer satisfaction.
@@ -62,6 +63,28 @@ Ola, a leader in the ride-hailing industry, generates extensive data on ride per
 **Ratings**
 - Driver Ratings: 4.04–4.06 (stable)
 Customer Ratings: Avg. 4.1/5
+
+## Dashboard
+<details>
+<summary>
+$\textsf{\color{blue}{View Images ➡️}}$
+</summary><br>
+
+> ### 1. Overall
+> <a href="https://app.powerbi.com/view?r=eyJrIjoiNDRhODNhZTktMGEyYS00NzZiLWE2OGEtMGY3Mjc0OThiMjc4IiwidCI6IjM3MzhkYjE5LTA4MzUtNDhmZS05MjhiLWMxZjI3ZmNkN2Y2NCJ9" target="_blank"> <img width="650" height="400" alt="Image" src="https://github.com/user-attachments/assets/4d36761c-0bfb-460e-93e1-081264cc9288" /> </a>
+
+> ### 2. Vehicle Type
+> <img width="650" height="400" alt="Image" src="https://github.com/user-attachments/assets/c1197a0f-9881-41fa-8f7b-5f89fc8285aa" />
+
+> ### 3. Revenue
+> <img width="650" height="400" alt="Image" src="https://github.com/user-attachments/assets/607832bf-a163-40d3-8730-c462ba56bff3" />
+
+> ### 4. Cancellation
+> <img width="650" height="400" alt="Image" src="https://github.com/user-attachments/assets/0eb26f8d-14d8-4b41-a303-ea8b07a268e3" />
+
+> ### 5. Ratings
+> <img width="650" height="400" alt="Image" src="https://github.com/user-attachments/assets/57bcd181-4158-4c6f-8146-63d4bcbbdeed" />
+</details>
 
 ## Key Findings
 
